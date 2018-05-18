@@ -77,7 +77,7 @@ for ( var k = 0 ; k < 10 ; k++) {
     console.log('Instruction at the end of the loop ');
 }
 */
-var heightTree = prompt('Enter height tree');
+var heightTree = prompt('Enter tree height');
 
 function drawTree(i) {
 	for ( var i = 0 ; i < heightTree ; i ++ ) {
